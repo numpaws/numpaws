@@ -1,4 +1,30 @@
-## Hi there 👋
+# About me
+
+### Languages
+
+- Haxe
+- C++
+- Python
+
+## Friday Night Funkin' modder
+
+Codename only!!!
+
+### Working on
+
+- TakeAway
+- I can't funk
+- Soviet cartoons
+
+## Commissions
+(Haxe only!!)
+
+- Simple code - $3+
+- Complex code - $10+
+
+## Socials
+
+- Discord: numpaws
 
 <!--
 **numpaws/numpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
