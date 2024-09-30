@@ -26,6 +26,8 @@ Codename only!!!
 
 - Discord: numpaws
 
+moved to https://github.com/D-electra
+
 <!--
 **numpaws/numpaws** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
